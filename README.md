@@ -9,8 +9,8 @@
 
 ## Usage
 
-详见 Demo.py
+参考 ``Demo.py``
 
 ## Todo
 - [ ] 增量加密
-- [ ] 使用 RSA 公钥加密 AES 密钥
+- [x] 使用 RSA 公钥加密 AES 密钥
